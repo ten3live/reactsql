@@ -1,0 +1,45 @@
+*{
+
+color:black;
+text-align:center;
+justify-content:center;
+align-items:center;
+padding:5px 0px 15px 0px;
+}
+.img-rounded{
+width:30%;
+height:30%;
+
+}
+.Register{
+background:#eaeaea;
+}
+.Login{
+background:#eaeaea;
+}
+
+
+.Button{
+background:green;
+color:white;
+font-size:20px;
+padding:15px 60px 15px 60px;
+}
+.Link{
+background:white;
+color:black;
+
+}
+.upload{
+padding:5px 15px 5px 15px;
+border:5px green solid;
+color:black
+}
+input{
+text-align:center;
+justify-content:center;
+align-items:center;
+background:white;
+padding:15px 60px 15px 60px;
+color:black;
+}
